@@ -328,4 +328,5 @@
 
 - domains:
   - nytimes.com
+  - www.nytimes.com
   useFlareSolverr: true
